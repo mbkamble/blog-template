@@ -1,0 +1,56 @@
+#+BEGIN_COMMENT
+.. title: College Information
+.. slug: college_stuff
+.. date: 2017-09-07 17:07:54 UTC-05:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+#+END_COMMENT
+
+* Glossary
+*** Aeronautics : All aspects of atmospheric flight
+*** Astronautics: All aspects of space flight
+* College List
+| Name         | Deadline | Notes |
+|--------------+----------+-------|
+| UT Austin    |          |       |
+| Georgia Tech |          |       |
+| MIT          |          |       |
+| Perdue       |          |       |
+| A&M          |          |       |
+| UTDallas     |          |       |
+| CalTech      |          |       |
+
+* College Specific
+*** Purdue
+    - [[https://www.purdue.edu/catalogs/engineering/plansOfStudy/aeronautics.html][B.S AAE degree plan of study]]
+* Career Data
+  This section summarizes the career paths/options data. The following websites
+  served as reference points
+  - [[https://datausa.io/][DataUSA]]
+| Career Field              | Classification           |
+|---------------------------+--------------------------|
+| Aeronautics Engg          | Architecture&Engineering |
+| Architects (excpet Naval) | Architecture&Engineering |
+| Surveyors & Cartographers | Architecture&Engineering |
+| Biomedical Engg           | Architecture&Engineering |
+| Agricultural Engg         | Architecture&Engineering |
+| Chemical Engg             | Architecture&Engineering |
+| Civil Engg                | Architecture&Engineering |
+| Computer Hardware Engg    | Architecture&Engineering |
+|                           |                          |
+
+
+
+| Career Field                    | Classification | website    | WorkForce | MedianSalary | MaxSalary | MaxPctage | AsianPctg | JobGrowthPrj |
+|---------------------------------+----------------+------------+-----------+--------------+-----------+-----------+-----------+--------------|
+| Aeronautical Engg               | A&E            | [[https://datausa.io/profile/soc/172011][datausa-AE]] | 120K      | 103K         | +200K     |        3% |       12% |        -2.3% |
+| Computer, Engineering & Science | MBSA           | [[https://datausa.io/profile/soc/150000-190000][datausa-CE]] | 8.1M      | 80K          | +200K     |      2.6% |     16.2% |        13.1% |
+| INFORMATION SECURITY ANALYSTS   | C&M            |            | 67K       | 90K          | +200K     |      2.5% |      8.1% |          18% |
+|                                 |                |            |           |              |           |           |           |              |
+
+  - A&E : Architecture and Engineering
+  - MBSA: Management, Business, Science and Arts Occupations
+  - C&M: Computers and Mathematical Occupations
