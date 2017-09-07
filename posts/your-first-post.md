@@ -9,4 +9,4 @@
 .. type: text
 -->
 
-Write your post here.
+This is my first blog post. I am deploying this on Netlify
